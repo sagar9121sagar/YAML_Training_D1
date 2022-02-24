@@ -1,0 +1,14 @@
+destiny2 :
+  - hunter : 1400
+    seasonpass_rank : 11
+    past_season_rank : 423
+    char_usage_% : 38
+    special_ability : inviz 
+   
+  - warlock : 1320
+    char_usage % : 45
+    special_ability : heals
+
+  - titam : 1322
+    char_usage_% : 18
+    special_ability : sheld    
